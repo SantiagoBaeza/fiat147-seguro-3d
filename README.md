@@ -39,8 +39,7 @@ En el Fiat 147, el seguro de puerta se acciona desde el interior mediante una va
 
 ## 📦 Archivos incluidos
 
-- `guarnicion_fiat147_final.stl` – Archivo listo para imprimir
-- `guarnicion_fiat147.f3d` – Diseño paramétrico original (Fusion 360)
+> ![Archivo del proyecto (.stl)](https://github.com/SantiagoBaeza/fiat147-seguro-3d/blob/main/03%20guarnicion_.stl) – Archivo listo para imprimir
 
 ---
 
@@ -48,7 +47,8 @@ En el Fiat 147, el seguro de puerta se acciona desde el interior mediante una va
 
 Después de varias pruebas, se logró un diseño que encastra a presión en la puerta del Fiat 147, con un acabado funcional y estéticamente aceptable.
 
-> ![Foto de la pieza impresa](./fotos/final_impreso.jpg)
+> ![Foto de la pieza en el editor](https://github.com/SantiagoBaeza/fiat147-seguro-3d/blob/main/01%20imagen%20antes%20de%20imprimir.jpg)
+> ![Foto de la pieza impresa](https://github.com/SantiagoBaeza/fiat147-seguro-3d/blob/main/02%20producto%20final%20.jpg)
 
 ---
 
@@ -73,7 +73,7 @@ Después de varias pruebas, se logró un diseño que encastra a presión en la p
 ## ✍️ Autor
 
 **Santiago Baeza**  
-[GitHub](https://github.com/tu-usuario) – *Diseño e integración electrónica, impresión 3D y automatización*
+[GitHub](https://github.com/SantiagoBaeza/Portafolio-tecnico) – *Diseño e integración electrónica, impresión 3D y automatización*
 
 ---
 
