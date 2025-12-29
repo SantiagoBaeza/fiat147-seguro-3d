@@ -1,16 +1,10 @@
+[⬅️ Volver a "Diseño 3D"](https://github.com/SantiagoBaeza/-Dise-os-3D-/blob/main/README.md)
 # 🚗 Fiat 147 – Guarnición de Seguro de Puerta (Diseño e Impresión 3D)
 
 Este proyecto consiste en el diseño y fabricación de una pieza plástica funcional para el **Fiat 147**, un vehículo clásico muy común en Argentina.  
 La pieza es una **guarnición embellecedora** para el seguro interior de las puertas, diseñada para ser impresa en 3D y reemplazar la pieza original, ya que en muchos casos se encuentra deteriorada o ausente.
 
 > 🔧 Este fue mi **primer diseño funcional en impresión 3D**, creado como parte de mi formación autodidacta en fabricación digital. Aunque es una pieza sencilla, representó un desafío técnico muy valioso en cuanto a diseño CAD, tolerancias mecánicas e impresión FDM.
-
----
-
-## 📂 Este proyecto forma parte de mi portfolio técnico
-
-Forma parte de mi repositorio general, donde documento desarrollos en múltiples áreas:  
-**electrónica (STM32, Arduino), diseño de PCBs, automatización y soluciones mecánicas a medida**.
 
 ---
 
