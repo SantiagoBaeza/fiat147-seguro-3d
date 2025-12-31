@@ -33,7 +33,7 @@ En el Fiat 147, el seguro de puerta se acciona desde el interior mediante una va
 
 ## Archivos incluidos
 
-> ![Archivo del proyecto (.stl)](https://github.com/SantiagoBaeza/fiat147-seguro-3d/blob/main/03%20guarnicion_.stl) – Archivo listo para imprimir
+> [Archivo del proyecto (.stl)](https://github.com/SantiagoBaeza/fiat147-seguro-3d/blob/main/03%20guarnicion_.stl) – Archivo listo para imprimir
 
 ---
 
